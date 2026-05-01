@@ -1,6 +1,6 @@
 {
 "name": "wb-norm",
-"version": "0.7.1",
+"version": "0.6.5",
 "description": "WhatsApp Web API Library",
 "keywords": [ "wb-norm", "baileys", "baileys/wb-norm", "wb-norm/api", "whatsapp", "whatsapp-api", "whatsapp-web", "whatsapp-bot", "automation", "multi-device" ],
 "homepage": "https://github.com/nulswa/wb-norm",
