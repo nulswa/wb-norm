@@ -2,10 +2,10 @@
 "name": "wb-norm",
 "version": "0.7.1",
 "description": "WhatsApp Web API Library",
-"keywords": [ "bails", "baileys", "baileys/wa", "wa/api", "whatsapp", "whatsapp-api", "whatsapp-web", "whatsapp-bot", "automation", "multi-device" ],
-"homepage": "https://github.com/nulswa/wa",
+"keywords": [ "wb-norm", "baileys", "baileys/wb-norm", "wb-norm/api", "whatsapp", "whatsapp-api", "whatsapp-web", "whatsapp-bot", "automation", "multi-device" ],
+"homepage": "https://github.com/nulswa/wb-norm",
 "repository": {
-"url": "https://github.com/nulswa/wa"
+"url": "https://github.com/nulswa/wb-norm"
 },
 "license": "MIT",
 "author": "Farguts",
